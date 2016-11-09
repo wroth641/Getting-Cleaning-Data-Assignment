@@ -1,8 +1,8 @@
 Description:
-#A CodeBook for all the variables and summaries calculated, along with units, and any other relevant information.
+A CodeBook for all the variables and summaries calculated, along with units, and any other relevant information.
 
 Data Source:
-#A full description is available at the site where the data was obtained:
+A full description is available at the site where the data was obtained:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
 Here is the data for the course project:
